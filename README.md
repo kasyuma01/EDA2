@@ -1,5 +1,5 @@
 # EDA2
-To be able to use EDA to understand the data in order to create algorithms to determine the most effective inspection method of defect detection
+Using EDA to understand the data in order to create algorithms to determine the most effective inspection method of defect detection
 
 Data sets sourced from kaggle.com
 
